@@ -1,0 +1,90 @@
+p{
+    color: brown;
+}
+.hr{
+    color: rgb(188, 119, 34);
+}
+.pr{
+    color: rgb(198, 183, 183);
+}
+.hl{
+    color: rgb(152, 152, 205);
+}
+.gr{
+    background-color: rgb(42, 42, 144);
+    margin:20px;
+    padding:10px 520px 20px 50px;
+}
+button{
+    background-color: rgb(175, 32, 139);
+}
+.ur{
+    text-align: center;
+}
+.uy{
+    text-align: center;
+}
+
+.po{
+    text-align: center;
+    margin:10px;
+    padding:20px;
+    font-size: large;
+    color: rgb(23, 19, 19);
+}
+.ni{
+    text-align: center;
+}
+
+.cl{
+    
+    padding:40px;
+    shape-image-threshold: inherit;
+    border-image-width: 0cap;
+}
+.in{
+    color: rgb(19, 18, 18);
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.w{
+    text-align: center;
+}
+.wh{
+    text-align: center;
+    background-color: rgb(43, 131, 226);
+}
+.ev{
+
+     color: rgb(15, 14, 13);
+}
+.ap{
+    color: rgb(12, 11, 11);
+}
+.ce{
+    text-align: center;
+    color: rgb(23, 20, 20);
+    font-size: larger;
+    background-color: rgb(174, 137, 208);
+}
+.c{
+    text-align: center;
+}
+.i{
+    margin:10px 2000px 30px 100px;
+    padding:30px 900px 30px 100px;
+    
+}
+.s{
+    color: rgb(35, 2, 65);
+    
+}
+.fg{
+    background-color: rgb(180, 88, 97);
+}
+.ex{
+    text-align: center;
+}
+.in{
+    text-align: center;
+}
